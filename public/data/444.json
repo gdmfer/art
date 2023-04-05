@@ -1,0 +1,59 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/444.png",
+  "name": "Gdmfer #5941",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Mfer mountain"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Invisible"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Mfer "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mfer smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "3D 3D"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana green"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Headphone Design1",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Headphone Design2",
+      "value": "Pink lemonade"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    }
+  ]
+}

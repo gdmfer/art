@@ -1,0 +1,75 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/19.png",
+  "name": "Gdmfer #3550",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Spun"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Empty mfer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange mfer"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Gdmfer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bright blue"
+    },
+    {
+      "trait_type": "Inner Mood",
+      "value": "1"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "VR green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Cotton candy chain"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Collar"
+    },
+    {
+      "trait_type": "Mohawk",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Headphone Design1",
+      "value": "Mh pink"
+    },
+    {
+      "trait_type": "Headphone Design2",
+      "value": "Mh hazy daze"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart tab pink:purple"
+    },
+    {
+      "trait_type": "Mfer Fren",
+      "value": "Chester"
+    }
+  ]
+}

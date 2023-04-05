@@ -1,0 +1,51 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/22.png",
+  "name": "Gdmfer #3716",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient 4"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey mfer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "OG mfer"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Gdmfer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bright green"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long watermelon"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cig"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart tab blue:green"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/330.png",
+  "name": "Gdmfer #1632",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rasta"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Big Eye",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart gm orange:yellow"
+    }
+  ]
+}

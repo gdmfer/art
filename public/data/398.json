@@ -1,0 +1,39 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/398.png",
+  "name": "Gdmfer #5027",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Caramel apple"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Bones"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Mfer "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mfer smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cheshire hoodie"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "GM yellow "
+    }
+  ]
+}

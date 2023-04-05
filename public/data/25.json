@@ -1,0 +1,67 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/25.png",
+  "name": "Gdmfer #2629",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chief"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Mfer mountain"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mor pink"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Reflection1",
+      "value": "Spun"
+    },
+    {
+      "trait_type": "Reflection2",
+      "value": "Sprung 2"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jimi"
+    },
+    {
+      "trait_type": "Floater",
+      "value": "UFO tiny mfer blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long golden"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Smoker headband AZT"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart tab pink:purple"
+    }
+  ]
+}

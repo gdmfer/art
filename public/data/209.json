@@ -1,0 +1,75 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/209.png",
+  "name": "Gdmfer #1016",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient 1"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Spun"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange nood"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Gdmfer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Reflection1",
+      "value": "Saucer"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Swamp collar"
+    },
+    {
+      "trait_type": "Floater",
+      "value": "UFO tiny mfer purple"
+    },
+    {
+      "trait_type": "Mohawk",
+      "value": "GOB"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Headphone Design1",
+      "value": "Mh blue"
+    },
+    {
+      "trait_type": "Headphone Design2",
+      "value": "Mh Rasta"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart gm orange:yellow"
+    }
+  ]
+}

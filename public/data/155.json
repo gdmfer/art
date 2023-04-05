@@ -1,0 +1,71 @@
+{
+  "description": "8008 gdmfers on Ethereum.",
+  "image": "https://gdmfer.github.io/art/155.png",
+  "name": "Gdmfer #1713",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Chair",
+      "value": "Chair"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mfin alien"
+    },
+    {
+      "trait_type": "Small Eyes",
+      "value": "Gdmfer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Reflection1",
+      "value": "Spun"
+    },
+    {
+      "trait_type": "Reflection2",
+      "value": "Sprung 2"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Trippy chain"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Wavy hoodie"
+    },
+    {
+      "trait_type": "Floater",
+      "value": "UFO tiny mfer pink"
+    },
+    {
+      "trait_type": "Mohawk",
+      "value": "PPG"
+    },
+    {
+      "trait_type": "Headphones",
+      "value": "Smile yellow"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Watch",
+      "value": "Smart tab yellow:red"
+    }
+  ]
+}

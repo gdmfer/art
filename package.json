@@ -13,14 +13,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "PUBLIC_URL=\"\" react-scripts build",
+    "lint": "npx eslint --fix \"./src/**/*.js\" && npx eslint --fix \"./src/*.js\"",
+    "predeploy": "PUBLIC_URL=\"\" && npm run build",
+    "deploy": "gh-pages -b gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "serve": "^14.2.0"
   }
 }
