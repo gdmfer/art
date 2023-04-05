@@ -1,1 +1,0 @@
-#### gdmfers art & metadata gh-pages deployment
